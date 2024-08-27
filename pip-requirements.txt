@@ -1,4 +1,5 @@
 tensorflow==2.15.0
+cffi==1.15.0
 pyts
 tslearn
 matplotlib
